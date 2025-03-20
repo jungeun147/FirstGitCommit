@@ -3,8 +3,8 @@
 리스트1
 리스트2
 11
-HEAD
+<<<<<<< HEAD
 second branch 내용 추가가
-
+=======
 뉴 브랜치 리스트3
-main
+>>>>>>> main
